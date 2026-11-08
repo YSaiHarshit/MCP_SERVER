@@ -1,6 +1,6 @@
 from fastmcp import FastMCP
 
-mcp = FastMCP('Amazon Ecommerce')
+mcp = FastMCP('Amazon_Ecommerce')
 
 
 @mcp.tool()
